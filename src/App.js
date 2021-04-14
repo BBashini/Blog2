@@ -15,7 +15,7 @@ function App() {
       </Switch>
       
     </Router>
-    <h1>Kobi I am marrying you</h1>
+    
     </>
   );
 }
